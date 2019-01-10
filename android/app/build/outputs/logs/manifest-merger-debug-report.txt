@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/yifei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/8264e8e28f944e805e926c79625b3ac4/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/dd7250d904b11e172a5f44e5d4aff085/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/259d4c0d948778af570140f236ce456c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/bd6218656abc1660ec46051b5bc260cf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/0a4d82c7ea3f5c56b63348ce77e39ce6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/d2e37912cfea22ff2e11eba1ab88de27/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/5f2ed74e445fc7ac596b6a7715b10643/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/62a976c61a0e2017a1a42680a8dda5f0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c4721d9a65975eaecb7ba2c411da7e5e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3a773c90e80e95eb5b957eb542772fe0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f017662a3a8c20cd9eacc60301e53a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/096d56d6860cc9fd6a2b6930a8fd299c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8d6ddefd32f2d0da35135a3b14c2adb4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b986caf2bb2778792cfaddb833f6040/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/21293f72359d65ee0e0a3998780bcdfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c7ff5e5c7fbcee6919fcc6aa6d21e19e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d542c8eaeac40c4826b92379db576ea9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c5dd7ed8748a01369c3df27e51389e24/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/99f9e6279f5805c5ed033293ba5d5e36/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/20a70453d5cd994c1108e4aa6264b2bd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3e90808f674e62b21f20ad33ae1b6e48/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/19edf229a8ba6ae409199987d611ea81/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/345d14da0f1d2d152f514f82142cc915/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/yifei/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/91622692e0aae6ad39d683af77b01a9d/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/081f0e6fd2d7c93911794d5c0b70669f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/165aa04ca23401f34074246090b15f81/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/061ff7ab4ffa5db422e9e041f5c5b328/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc95919e7c1e3f25b14b55a4cce57aa3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5adecfdc88512cc05945cfe4fbf1cb3e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+	package
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/yifei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/8264e8e28f944e805e926c79625b3ac4/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/yifei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/8264e8e28f944e805e926c79625b3ac4/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:6:5-65
+MERGED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-65
+MERGED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:12:5-29:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/yifei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/8264e8e28f944e805e926c79625b3ac4/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/yifei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/8264e8e28f944e805e926c79625b3ac4/AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/259d4c0d948778af570140f236ce456c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/259d4c0d948778af570140f236ce456c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/0a4d82c7ea3f5c56b63348ce77e39ce6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/0a4d82c7ea3f5c56b63348ce77e39ce6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/d2e37912cfea22ff2e11eba1ab88de27/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/d2e37912cfea22ff2e11eba1ab88de27/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/62a976c61a0e2017a1a42680a8dda5f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/62a976c61a0e2017a1a42680a8dda5f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c4721d9a65975eaecb7ba2c411da7e5e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c4721d9a65975eaecb7ba2c411da7e5e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/345d14da0f1d2d152f514f82142cc915/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/345d14da0f1d2d152f514f82142cc915/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/yifei/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/91622692e0aae6ad39d683af77b01a9d/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/yifei/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/91622692e0aae6ad39d683af77b01a9d/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:14:7-39
+	android:icon
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:15:7-41
+	android:allowBackup
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:13:7-38
+activity#com.camera.MainActivity
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:18:7-27:18
+	android:label
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:configChanges
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:21:9-79
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:24:13-65
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:24:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:25:13-73
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:25:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:28:7-84
+	android:name
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:28:17-81
+uses-sdk
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/yifei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/8264e8e28f944e805e926c79625b3ac4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/yifei/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/8264e8e28f944e805e926c79625b3ac4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/dd7250d904b11e172a5f44e5d4aff085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/dd7250d904b11e172a5f44e5d4aff085/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/259d4c0d948778af570140f236ce456c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-15.0.2.aar/259d4c0d948778af570140f236ce456c/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/bd6218656abc1660ec46051b5bc260cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/bd6218656abc1660ec46051b5bc260cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/0a4d82c7ea3f5c56b63348ce77e39ce6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-15.0.2.aar/0a4d82c7ea3f5c56b63348ce77e39ce6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/d2e37912cfea22ff2e11eba1ab88de27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/d2e37912cfea22ff2e11eba1ab88de27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/5f2ed74e445fc7ac596b6a7715b10643/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/5f2ed74e445fc7ac596b6a7715b10643/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/62a976c61a0e2017a1a42680a8dda5f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-15.0.1.aar/62a976c61a0e2017a1a42680a8dda5f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c4721d9a65975eaecb7ba2c411da7e5e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/c4721d9a65975eaecb7ba2c411da7e5e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3a773c90e80e95eb5b957eb542772fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3a773c90e80e95eb5b957eb542772fe0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f017662a3a8c20cd9eacc60301e53a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/8f017662a3a8c20cd9eacc60301e53a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/096d56d6860cc9fd6a2b6930a8fd299c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/096d56d6860cc9fd6a2b6930a8fd299c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8d6ddefd32f2d0da35135a3b14c2adb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/8d6ddefd32f2d0da35135a3b14c2adb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b986caf2bb2778792cfaddb833f6040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/4b986caf2bb2778792cfaddb833f6040/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/21293f72359d65ee0e0a3998780bcdfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/21293f72359d65ee0e0a3998780bcdfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c7ff5e5c7fbcee6919fcc6aa6d21e19e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c7ff5e5c7fbcee6919fcc6aa6d21e19e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d542c8eaeac40c4826b92379db576ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d542c8eaeac40c4826b92379db576ea9/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c5dd7ed8748a01369c3df27e51389e24/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c5dd7ed8748a01369c3df27e51389e24/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/99f9e6279f5805c5ed033293ba5d5e36/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/99f9e6279f5805c5ed033293ba5d5e36/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/20a70453d5cd994c1108e4aa6264b2bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/20a70453d5cd994c1108e4aa6264b2bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3e90808f674e62b21f20ad33ae1b6e48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/3e90808f674e62b21f20ad33ae1b6e48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/19edf229a8ba6ae409199987d611ea81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/19edf229a8ba6ae409199987d611ea81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/345d14da0f1d2d152f514f82142cc915/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/345d14da0f1d2d152f514f82142cc915/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/081f0e6fd2d7c93911794d5c0b70669f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/081f0e6fd2d7c93911794d5c0b70669f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/165aa04ca23401f34074246090b15f81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/165aa04ca23401f34074246090b15f81/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/061ff7ab4ffa5db422e9e041f5c5b328/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/061ff7ab4ffa5db422e9e041f5c5b328/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc95919e7c1e3f25b14b55a4cce57aa3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bc95919e7c1e3f25b14b55a4cce57aa3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5adecfdc88512cc05945cfe4fbf1cb3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yifei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5adecfdc88512cc05945cfe4fbf1cb3e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /Users/yifei/Desktop/react-native-pro/demo/camera/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/5204ed1ba78ca813de449af0677d1586/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/yifei/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/983946c024588717393bc64b4fa326c7/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/yifei/Desktop/react-native-pro/demo/camera/android/app/src/main/AndroidManifest.xml:1:1-31:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
